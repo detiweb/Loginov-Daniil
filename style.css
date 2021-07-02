@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #c8c8c8;
+}
+
+header{
+	text-align: center;
+	height: 100px;
+}
+
+a{
+	color: #7f7ffe;
+}
+
+a:hover{
+	color: #4040fe;
+}
+
+.div1{
+	font-size: 25px;
+	width: 50%;
+	margin-left: 20%;
+	margin-right: 30%;
+}
+
+span:hover{
+	color: #b40b0b;
+}
+
+.div2 img{
+	margin-left: 2%;
+	width: 30%;
+}
+
+.div2 h3{
+	text-align: center;
+	font-size: 25px;
+}	
+
+footer{
+	background: #646464;
+}
